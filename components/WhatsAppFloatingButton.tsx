@@ -9,7 +9,7 @@ export default function WhatsAppFloatingButton() {
       target="_blank"
       rel="noreferrer"
       aria-label="WhatsApp"
-      className="fixed bottom-20 right-5 z-50 flex items-center justify-center h-14 w-14 rounded-full bg-[#25D366] shadow-lg hover:scale-105 transition-transform"
+      className="fixed bottom-20 right-5 z-50 flex items-center justify-center h-11 w-11 rounded-full bg-[#25D366] shadow-lg hover:scale-105 transition-transform"
     >
       {/* Ícono WhatsApp */}
       <svg
